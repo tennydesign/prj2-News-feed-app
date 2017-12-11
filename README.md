@@ -9,7 +9,7 @@ A News Feed app i've built during General Assembly iOS immersive program. This p
 - Non-standard animation features.
 - XIB files for more design flexibility on cells. 
 - Auto-layout for portrait and landscape, any device. 
-- Apple's Material Design Principles. 
+- Apple's Material Design and Human Interface Guidelines. 
 - Balsamiq prototype.
 - POP (Marvel) prototype. 
 
