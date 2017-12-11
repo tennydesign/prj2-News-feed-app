@@ -7,6 +7,7 @@ A News Feed app i've built during General Assembly iOS immersive program. This p
 - MVC based architecture.
 - OOP (Object Oriented Programming)
 - Non-standard animation features.
+- XIB files for more design flexibility on cells. 
 - Auto-layout for portrait and landscape, any device. 
 - Apple's Material Design Principles. 
 - Balsamiq prototype.
