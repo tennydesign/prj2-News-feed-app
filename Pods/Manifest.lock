@@ -1,0 +1,12 @@
+PODS:
+  - SidebarOverlay (4.1)
+
+DEPENDENCIES:
+  - SidebarOverlay
+
+SPEC CHECKSUMS:
+  SidebarOverlay: b65f0a1d9331ce4bf81f82eea202b21cc8655c5a
+
+PODFILE CHECKSUM: 4cc2024e2c376da783043117185c3640efa30390
+
+COCOAPODS: 1.3.1

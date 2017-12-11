@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="13196" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13174"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="none" indentationWidth="0.0" reuseIdentifier="keywordCell" rowHeight="60" id="KGk-i7-Jjw" customClass="SearchTableViewCell" customModule="project2_NewsFeed" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="175" height="60"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="175" height="59.5"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view clipsSubviews="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Gz2-tB-eY5">
+                        <rect key="frame" x="0.0" y="0.0" width="175" height="60"/>
+                        <subviews>
+                            <view clipsSubviews="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="R8B-kp-sFD">
+                                <rect key="frame" x="1" y="13.5" width="134" height="30"/>
+                                <subviews>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="x tesasting asassa" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="FPh-fp-1sf">
+                                        <rect key="frame" x="7.5" y="7" width="119" height="15"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="15" id="K9n-yY-JMC"/>
+                                        </constraints>
+                                        <viewLayoutGuide key="safeArea" id="Cfg-cO-Ddi"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                        <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        <nil key="highlightedColor"/>
+                                        <size key="shadowOffset" width="0.0" height="0.0"/>
+                                    </label>
+                                </subviews>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="FPh-fp-1sf" secondAttribute="width" constant="15" id="P0L-GB-9cI"/>
+                                    <constraint firstItem="FPh-fp-1sf" firstAttribute="centerX" secondItem="R8B-kp-sFD" secondAttribute="centerX" id="T7Y-1C-Gvl"/>
+                                    <constraint firstItem="FPh-fp-1sf" firstAttribute="centerY" secondItem="R8B-kp-sFD" secondAttribute="centerY" constant="-0.5" id="hNa-TA-pb4"/>
+                                    <constraint firstItem="FPh-fp-1sf" firstAttribute="top" secondItem="R8B-kp-sFD" secondAttribute="top" constant="7" id="yWx-fQ-U5s"/>
+                                </constraints>
+                            </view>
+                        </subviews>
+                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstAttribute="height" relation="greaterThanOrEqual" constant="60" id="0Wa-0d-KEG"/>
+                            <constraint firstItem="R8B-kp-sFD" firstAttribute="leading" secondItem="Gz2-tB-eY5" secondAttribute="leading" constant="1" id="2lX-ZI-ATP"/>
+                            <constraint firstAttribute="height" constant="60" id="dQn-6a-k2j"/>
+                            <constraint firstAttribute="width" constant="175" id="hyi-KF-U33"/>
+                            <constraint firstItem="R8B-kp-sFD" firstAttribute="centerY" secondItem="Gz2-tB-eY5" secondAttribute="centerY" constant="-1.5" id="z0F-pZ-c0c"/>
+                        </constraints>
+                    </view>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="Gz2-tB-eY5" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" id="GcU-gp-2Hj"/>
+                    <constraint firstAttribute="trailing" secondItem="Gz2-tB-eY5" secondAttribute="trailing" id="HUL-KP-QcE"/>
+                    <constraint firstItem="Gz2-tB-eY5" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" id="LPG-v3-eRX"/>
+                    <constraint firstAttribute="bottom" secondItem="Gz2-tB-eY5" secondAttribute="bottom" id="fsN-Xf-d7x"/>
+                </constraints>
+            </tableViewCellContentView>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <constraints>
+                <constraint firstItem="Gz2-tB-eY5" firstAttribute="width" secondItem="njF-e1-oar" secondAttribute="width" id="S1t-6E-vpR"/>
+                <constraint firstItem="Gz2-tB-eY5" firstAttribute="height" secondItem="njF-e1-oar" secondAttribute="height" id="qAm-Us-gn7"/>
+            </constraints>
+            <viewLayoutGuide key="safeArea" id="njF-e1-oar"/>
+            <connections>
+                <outlet property="keyword" destination="FPh-fp-1sf" id="JyS-bJ-QVQ"/>
+                <outlet property="keywordView" destination="R8B-kp-sFD" id="cDF-Db-pFX"/>
+            </connections>
+            <point key="canvasLocation" x="116.5" y="40"/>
+        </tableViewCell>
+    </objects>
+</document>
