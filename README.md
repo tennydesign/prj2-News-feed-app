@@ -1,5 +1,5 @@
 # prototypeProject2
-A News Feed app i've built during General Assembly iOS immersive program. This project uses: 
+A News Feed app i've built during General Assembly iOS immersive program. This project features: 
 - GCD queues.
 - JSON serialization with Decodable.
 - Access to two different APIs.
