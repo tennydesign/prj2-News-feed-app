@@ -1,0 +1,7 @@
+# prototypeProject2
+A News Feed app i've built during General Assembly iOS immersive program. 
+
+<img width="1421" alt="1" src="https://user-images.githubusercontent.com/17029800/33854921-371e5b00-de78-11e7-883c-2ddf5ff690e1.png">
+<img width="1418" alt="2" src="https://user-images.githubusercontent.com/17029800/33854923-37358b90-de78-11e7-8dd7-dab062633f21.png">
+<img width="660" alt="a" src="https://user-images.githubusercontent.com/17029800/33854924-374fe8dc-de78-11e7-8c9f-5f61519df993.png">
+<img width="424" alt="b" src="https://user-images.githubusercontent.com/17029800/33854925-37750540-de78-11e7-8f72-f05ac5d2c7a9.png">
