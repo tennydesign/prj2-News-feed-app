@@ -22,7 +22,7 @@ My second project: A News Feed App. This was maybe the most significant technica
 - Balsamiq prototype.
 - POP (Marvel) prototype. 
 
-** This App ranked #3 out of 15 in the the class (General Assembly iOS immersive SF). Check: #1 Sheeja and #2 Jun's. (link soon)
+** This App ranked #3 out of 15 in the the class (General Assembly iOS immersive SF). Check: #1 Sheeja and #2 [Jun's](Https://www.Github.com/juntomlee). 
  
  Total hacking time: ~180 hours.
  
