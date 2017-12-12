@@ -22,6 +22,8 @@ My second project: A News Feed App. This was maybe the most significant technica
 - Balsamiq prototype.
 - POP (Marvel) prototype. 
 
+* This App ranked #2 in the the class. 
+ 
 <img width="1421" alt="1" src="https://user-images.githubusercontent.com/17029800/33854921-371e5b00-de78-11e7-883c-2ddf5ff690e1.png">
 <img width="1418" alt="2" src="https://user-images.githubusercontent.com/17029800/33854923-37358b90-de78-11e7-8dd7-dab062633f21.png">
 <img width="660" alt="a" src="https://user-images.githubusercontent.com/17029800/33854924-374fe8dc-de78-11e7-8c9f-5f61519df993.png">
