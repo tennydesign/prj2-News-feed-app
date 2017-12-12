@@ -1,11 +1,14 @@
 # News Feed App - iOSi SF Project #2 
 My second project: A News Feed App. This was maybe the most significant technical leap in the immersive. Night and day from the Todo List App. This project features: 
-- GCD queues.
+- GCD async queues.
 - Core Data. 
 - CoreLocation (feeding weather forecast API).
 - JSON serialization using Decodable objects.
+- JSON parsing. 
+- URL sessions. 
 - Access to two different APIs (three with https://api.datamuse.com, but ended up not using it, code is there). Each with many end-points. 
-- My own Protocols, Singletons and Delegates. 
+- My very own Protocols, Singletons and Delegates. 
+- Very intricate Date formatting. 
 - Network reachability test. 
 - Cocoa Pods
 - MVC based architecture.
