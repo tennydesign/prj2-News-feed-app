@@ -6,7 +6,7 @@ My second project: A News Feed App. This was maybe the most significant technica
 - JSON serialization using Decodable objects.
 - JSON parsing. 
 - URL sessions. 
-- Access to two different APIs (three with https://api.datamuse.com, but ended up not using it, code is there). Each with many end-points. 
+- Access to two different APIs (three with http://www.datamuse.com/api/, but ended up not using it, code is there). Each with many end-points. 
 - My very own Protocols, Singletons and Delegates. 
 - Very intricate Date formatting. 
 - Network reachability test. 
