@@ -4,7 +4,7 @@ My second project: A News Feed App. This was maybe the most significant technica
 - Core Data. 
 - CoreLocation (feeding weather forecast API).
 - JSON serialization using Decodable objects.
-- Access to two different APIs.
+- Access to two different APIs (three with https://api.datamuse.com, but ended up not using it, code is there).
 - Cocoa Pods
 - MVC based architecture.
 - OOP (Object Oriented Programming)
