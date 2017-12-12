@@ -1,5 +1,5 @@
 # News Feed App - iOSi SF Project #2 
-A News Feed app i've built during General Assembly iOS immersive program. This project features: 
+My second App: A News Feed app. This was maybe the most significant technical leap in the immersive. Night and day from the Todo List App. This project features: 
 - GCD queues.
 - JSON serialization using Decodable objects.
 - Access to two different APIs.
