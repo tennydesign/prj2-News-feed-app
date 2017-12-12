@@ -17,7 +17,7 @@ My second project: A News Feed App. This was maybe the most significant technica
 - XIB files for more design flexibility on cells. 
 - Ability to share news via social media or messaging outlets. 
 - Auto-layout for portrait and landscape, any device (from here on became a master in auto-layout). 
-- Some fair use of programatic layouting 
+- Some fair use of programatic layouting (yeah... a bit, but this got serious on project 3.)
 - Apple's Material Design and Human Interface Guidelines. 
 - Balsamiq prototype.
 - POP (Marvel) prototype. 
