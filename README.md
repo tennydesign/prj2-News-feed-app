@@ -4,13 +4,17 @@ My second project: A News Feed App. This was maybe the most significant technica
 - Core Data. 
 - CoreLocation (feeding weather forecast API).
 - JSON serialization using Decodable objects.
-- Access to two different APIs (three with https://api.datamuse.com, but ended up not using it, code is there).
+- Access to two different APIs (three with https://api.datamuse.com, but ended up not using it, code is there). Each with many end-points. 
+- My own Protocols, Singletons and Delegates. 
+- Network reachability test. 
 - Cocoa Pods
 - MVC based architecture.
 - OOP (Object Oriented Programming)
 - Non-standard animation features.
 - XIB files for more design flexibility on cells. 
+- Ability to share news via social media or messaging outlets. 
 - Auto-layout for portrait and landscape, any device. 
+- Some fair use of programatic layouting 
 - Apple's Material Design and Human Interface Guidelines. 
 - Balsamiq prototype.
 - POP (Marvel) prototype. 
