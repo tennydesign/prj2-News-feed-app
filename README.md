@@ -16,7 +16,7 @@ My second project: A News Feed App. This was maybe the most significant technica
 - Non-standard animation features.
 - XIB files for more design flexibility on cells. 
 - Ability to share news via social media or messaging outlets. 
-- Auto-layout for portrait and landscape, any device (from here on became a master in auto-layout). 
+- Auto-layout for portrait and landscape, any device (Had to do it. Can u imagine a designer ignorant on autolayout? From here on became a master at it). 
 - Some fair use of programatic layouting (yeah... a bit, but this got serious on project 3.)
 - Apple's Material Design and Human Interface Guidelines. 
 - Balsamiq prototype.
