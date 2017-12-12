@@ -1,6 +1,7 @@
 # News Feed App - iOSi SF Project #2 
 My second project: A News Feed App. This was maybe the most significant technical leap in the immersive. Night and day from the Todo List App. This project features: 
 - GCD queues.
+- Core Data. 
 - JSON serialization using Decodable objects.
 - Access to two different APIs.
 - Cocoa Pods
