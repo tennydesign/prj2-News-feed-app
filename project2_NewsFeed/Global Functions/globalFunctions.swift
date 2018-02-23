@@ -63,7 +63,7 @@ func weekMonthDayNum() -> (String,String) {
 }
 
 func iconForWeatherConditions() {
-    let urlString = "https://api.darksky.net/forecast/205cf9c34b36d818c09542488fa6a347/37.8267,-122.4233"
+    let urlString = "https://api.darksky.net/forecast/****/37.8267,-122.4233"
     let requestUrl = URL(string:urlString)
     let request = URLRequest(url:requestUrl!)
 
